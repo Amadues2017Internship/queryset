@@ -1,8 +1,8 @@
 {
 "origin":"SCL",
 "destination":"NYC",
-"departure_d":"2018-02-11",
-"return_d":"2018-02-27",
+"departure_d":"2018-05-11",
+"return_d":"2018-05-27",
 "currency":"CLP",
 "ex_airline":"4O,AA,EQ,LI,UN,2A,2K,3I,3K,3U,4B,4U,5L,5P,5Q,6A,7I,8I,8P,8Q,8R,9B,9H,9M,9V,9W,A3,A5,A7,AS,AT,BD,BG,BL,BP,BV,BW,CF,CO,CU,CZ,DJ,DY,EI,EN,EW,F9,FL,GK,HR,IC,IG,JK,JQ,LB,MA,MF,ML,MP,MS,MW,NH,NK,NM,NW,OA,OS,OV,P5,PC,PW,QI,QS,RG,S2,SC,SE,SG,SK,SQ,SU,T7,TG,TU,TX,TZ,U2,UL,US,V0,VA,VF,VN,VW,VX,W2,WG,WN,WP,WS,YP,YV,YZ,ZE,ZI,MM,AB,AI,AP"
 }

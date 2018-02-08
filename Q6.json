@@ -1,8 +1,8 @@
 {
 "origin":"BOG",
 "destination":"CUN",
-"departure_d":"2018-03-05",
-"return_d":"2018-03-17",
+"departure_d":"2018-05-05",
+"return_d":"2018-05-17",
 "currency":"COP",
 "ex_airline":"AA,2A,3K,4B,4U,5L,5P,6A,7D,8R,9B,9F,9H,9N,9R,A5,A7,AB,AH,AP,AQ,AZ,BD,BL,CN,CO,D7,DJ,DY,F9,FM,FV,GK,GL,GP,HP,I9,IC,IR,IT,JK,JM,JQ,LB,LI,LN,ML,MP,MW,MX,N6,NK,NM,NW,NZ,OS,OV,PC,PD,PU,QI,RF,RG,SE,SG,SK,SU,T4,TG,U2,UG,UO,US,V0,VF,VG,VP,W2,W4,WG,WN,WP,WW,X8,XE,XL,YX,ZB,ZI,ZK,E8,FL"
 }
